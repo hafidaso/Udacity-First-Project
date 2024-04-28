@@ -35,13 +35,13 @@ Given more time, further exploration of hyperparameter configurations and extens
 
 
 
-![model_train_score.png](Udacity-First-Project/project/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
 
-![model_test_score.png](Udacity-First-Project/project/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 This project demonstrated the efficacy of AutoGluon in developing predictive models for bike sharing demand. By leveraging EDA, feature engineering, and selective hyperparameter tuning, significant improvements in model performance were achieved. However, further refinement and exploration of hyperparameter configurations could potentially enhance predictive accuracy. Overall, this endeavor underscores the importance of data preprocessing and thoughtful feature selection in building robust predictive models.
